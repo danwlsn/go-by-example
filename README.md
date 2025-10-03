@@ -2,12 +2,12 @@
 * [Link to page](https://gobyexample.com/)
 
 
-- [x] Hello World
-- [x] Values
-- [x] Variables
-- [x] Constants
-- [ ] For
-- [ ] If/Else
+- [x] [Hello World](./helloworld.go)
+- [x] [Values](./values.go)
+- [x] [Variables](./variables.go)
+- [x] [Constants](./constants.go)
+- [x] [For](./for.go)
+- [x] [If/Else](./if-else.go)
 - [ ] Switch
 - [ ] Arrays
 - [ ] Slices
